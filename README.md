@@ -14,3 +14,17 @@ https://github.com/mastersigat/GeoPandas/blob/main/Seance1(intro_Pandas).ipynb
 * Calculer des descriptives basiques
 * Faire des agrégations statistiques
 * Faire des visualisations de données simple
+
+### Séance 2 : Introduction à GeoPandas pour la manipulation de données spatiales
+https://github.com/mastersigat/GeoPandas/blob/main/Seance1(intro_Pandas).ipynb
+
+* Importer un jeu de données spatial
+* Créer un geodataframe
+* Faire des sélections et des filtres
+* Calculer des descriptives basiques
+* Reprojeter des jeux de données
+* Cartographie thématique
+* Jointure attributaire
+* Calcul d'indicateur
+* Regroupement
+
