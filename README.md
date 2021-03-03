@@ -21,6 +21,7 @@ https://github.com/mastersigat/GeoPandas/blob/main/Seance1(intro_Pandas).ipynb
 * Importer un jeu de données spatial
 * Créer un geodataframe
 * Faire des sélections et des filtres
+* Ecrire des jeux de données géographiques
 * Calculer des descriptives basiques
 * Reprojeter des jeux de données
 * Cartographie thématique
