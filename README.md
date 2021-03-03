@@ -3,6 +3,7 @@
 Cette section centralise 4 séances autour de la prise en main de Pandas (https://pandas.pydata.org) et Geopandas (https://geopandas.org) dans l'environnement Python
 
 ### Séance 1 : Introduction à Pandas pour la manipulation de données (spatiales)
+https://github.com/mastersigat/GeoPandas/blob/main/Seance1(intro_Pandas).ipynb
 
 * Importer un jeu de données
 * Créer un dataframe
