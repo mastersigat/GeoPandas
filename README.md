@@ -2,11 +2,7 @@
 
 Cette section centralise 4 séances autour de la prise en main de Pandas (https://pandas.pydata.org) et Geopandas (https://geopandas.org) dans l'environnement Python.
 
-Ce cours se base sur Google Collab (https://colab.research.google.com) comme environnement de travail. Cet environnement de travail distribué permet d'écrire et d'exécuter du code Python dans votre navigateur Web. Il offre les avantages suivants :
-
-    * Aucune configuration requise
-    * Accès gratuit aux GPU
-    * Partage facile
+Ce cours se base sur Google Collab (https://colab.research.google.com) comme environnement de travail. Cet environnement de travail distribué permet d'écrire et d'exécuter du code Python dans votre navigateur Web. Il offre de nombreux avantage d'un point de vue pédagogique comme aucune configuration requise, un accès gratuit aux GPU et surtout un partage et une documentation facile grâce notamment à des passerelles avec GitHub.
 
 
 ### Séance 1 : Introduction à Pandas pour la manipulation de données (spatiales)
