@@ -16,7 +16,7 @@ https://github.com/mastersigat/GeoPandas/blob/main/Seance1(intro_Pandas).ipynb
 * Faire des visualisations de données simple
 
 ### Séance 2 : Introduction à GeoPandas pour la manipulation de données spatiales
-https://github.com/mastersigat/GeoPandas/blob/main/Seance1(intro_Pandas).ipynb
+https://github.com/mastersigat/GeoPandas/blob/main/Seance_2_Manipulation_donnees_spatiales.ipynb
 
 * Importer un jeu de données spatial
 * Créer un geodataframe
