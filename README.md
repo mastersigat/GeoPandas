@@ -37,6 +37,7 @@ https://github.com/mastersigat/GeoPandas/blob/main/Seance_2_Manipulation_donnees
 * Jointure spatiales et agrégations spatiales
 * Calcul de distance, de surface et zones tampons
 * Opérateur de recouvrement (intersect, difference, union,...)
-* Analyse du plus proceh voisin
+* Création d'index spatial
+* Analyse du plus proche voisin
 * Carroyage classique
 * Carroyage basé sur le Uber H3
