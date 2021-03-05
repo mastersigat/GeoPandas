@@ -40,5 +40,5 @@ https://github.com/mastersigat/GeoPandas/blob/main/Seance_3_Analyse_spatiale.ipy
 * Opérateur de recouvrement (intersect, difference, union,...)
 * Création d'index spatial
 * Analyse du plus proche voisin
-* Carroyage classique
+* Carroyage classique 
 * Carroyage basé sur le Uber H3
