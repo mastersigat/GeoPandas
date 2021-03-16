@@ -42,3 +42,8 @@ https://github.com/mastersigat/GeoPandas/blob/main/Seance_3_Analyse_spatiale.ipy
 * Analyse du plus proche voisin
 * Carroyage classique 
 * Carroyage basé sur le Uber H3
+
+
+## Séance 4 : Mise en application autour du cadastre
+https://github.com/mastersigat/GeoPandas/blob/main/Seance_3_Analyse_spatiale.ipynb
+
