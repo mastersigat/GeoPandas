@@ -45,5 +45,4 @@ https://github.com/mastersigat/GeoPandas/blob/main/Seance_3_Analyse_spatiale.ipy
 
 
 ## Séance 4 : Mise en application autour du cadastre
-https://github.com/mastersigat/GeoPandas/blob/main/Seance_3_Analyse_spatiale.ipynb
-
+https://github.com/mastersigat/GeoPandas/blob/main/Cadastre.ipynb
