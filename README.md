@@ -6,7 +6,7 @@ Ce cours se base sur Google Collab (https://colab.research.google.com) comme env
 
 
 ## Séance 1 : Introduction à Pandas pour la manipulation de données (spatiales)
-https://github.com/mastersigat/GeoPandas/blob/main/Seance1(intro_Pandas).ipynb
+https://github.com/mastersigat/GeoPandas/blob/main/S%C3%A9ance_1_(intro_Pandas).ipynb
 
 * Importer un jeu de données
 * Créer un dataframe
