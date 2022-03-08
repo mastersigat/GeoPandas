@@ -33,7 +33,7 @@ https://github.com/mastersigat/GeoPandas/blob/main/Seance2_Manipulation_donnees_
 
 
 ## Séance 3 : Analyse spatiale avancée avec GeoPandas
-https://github.com/mastersigat/GeoPandas/blob/main/Seance_3_Analyse_spatiale.ipynb
+https://github.com/mastersigat/GeoPandas/blob/main/S%C3%A9ance_3_Analyse_spatiale.ipynb
 
 * Jointure spatiales et agrégations spatiales
 * Calcul de distance, de surface et zones tampons
