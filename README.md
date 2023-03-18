@@ -45,4 +45,11 @@ https://github.com/mastersigat/GeoPandas/blob/main/S%C3%A9ance_3_Analyse_spatial
 
 
 ## Séance 4 : Mise en application autour du cadastre
-https://github.com/mastersigat/GeoPandas/blob/main/Cadastre.ipynb
+https://github.com/mastersigat/GeoPandas/blob/main/S%C3%A9ance_4_Analyse_Spatiale_Urbanisme.ipynb
+
+* Jointure spatiales et agrégations spatiales
+* Opérateur de recouvrement (intersect, difference, union,...)
+* Création d'index spatial
+* Analyses spatiales à différentes échelles
+* Travailleravec un volume important de données (sur un département)
+* Mettre en place une chaîne de traitment automatisée et reproductible
