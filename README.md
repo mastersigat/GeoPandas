@@ -1,4 +1,4 @@
-# GeoPandas
+# Introduction à la manipulation, l'analyser et la représentation de données spatiales avec Python
 
 Cette section centralise 4 séances autour de la prise en main de Pandas (https://pandas.pydata.org) et Geopandas (https://geopandas.org) dans l'environnement Python.
 
