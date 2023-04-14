@@ -49,6 +49,7 @@ https://github.com/mastersigat/GeoPandas/blob/main/S%C3%A9ance_4_Analyse_Spatial
 
 * Jointure spatiales et agrégations spatiales
 * Opérateur de recouvrement (intersect, difference, union,...)
+* Analyses de recouvrement
 * Création d'index spatial
 * Analyses spatiales à différentes échelles
 * Travailleravec un volume important de données (sur un département)
