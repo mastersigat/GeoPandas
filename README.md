@@ -44,7 +44,7 @@ https://github.com/mastersigat/GeoPandas/blob/main/S%C3%A9ance_3_Analyse_spatial
 * Carroyage basé sur le Uber H3
 
 
-## Séance 4 : Mise en application autour du cadastre
+## Séance 4 : Mise en application autour de données urbanistiques
 https://github.com/mastersigat/GeoPandas/blob/main/S%C3%A9ance_4_Analyse_Spatiale_Urbanisme.ipynb
 
 * Jointure spatiales et agrégations spatiales
