@@ -6,7 +6,9 @@ Ce cours se base sur Google Collab (https://colab.research.google.com) comme env
 
 
 ## Séance 1 : Introduction à Pandas pour la manipulation de données
+
 https://github.com/bmericskay/GeoPandas/blob/main/S%C3%A9ance_1_(intro_Pandas).ipynb
+
 * Importer un jeu de données
 * Créer un dataframe
 * Faire des sélections et des filtres
@@ -15,6 +17,9 @@ https://github.com/bmericskay/GeoPandas/blob/main/S%C3%A9ance_1_(intro_Pandas).i
 * Faire des visualisations de données simple
 
 
+<img src="https://raw.githubusercontent.com/bmericskay/portfolio/main/images/cours/Python1.JPG" alt="alt tag" width="500" align="center">
+
+<br>
 ## Séance 2 : Introduction à GeoPandas pour la manipulation de données spatiales
 https://github.com/bmericskay/GeoPandas/blob/main/Seance2_Manipulation_donnees_spatiales.ipynb
 
@@ -30,8 +35,12 @@ https://github.com/bmericskay/GeoPandas/blob/main/Seance2_Manipulation_donnees_s
 * Calcul d'indicateur
 * Regroupement
 
+<img src="https://raw.githubusercontent.com/bmericskay/portfolio/main/images/cours/Python2.JPG" alt="alt tag" width="500" align="center">
+
+<br>
 
 ## Séance 3 : Analyse spatiale avancée avec GeoPandas
+
 https://github.com/mastersigat/GeoPandas/blob/main/S%C3%A9ance_3_Analyse_spatiale.ipynb
 
 * Jointure spatiales et agrégations spatiales
@@ -41,6 +50,11 @@ https://github.com/mastersigat/GeoPandas/blob/main/S%C3%A9ance_3_Analyse_spatial
 * Analyse du plus proche voisin
 * Carroyage classique 
 * Carroyage basé sur le Uber H3
+
+<img src="https://raw.githubusercontent.com/bmericskay/portfolio/main/images/cours/Python3.JPG" alt="alt tag" width="500" align="center">
+
+
+<br>
 
 
 ## Séance 4 : Mise en application autour de données urbanistiques
