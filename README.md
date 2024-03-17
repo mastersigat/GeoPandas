@@ -20,6 +20,7 @@ https://github.com/bmericskay/GeoPandas/blob/main/S%C3%A9ance_1_(intro_Pandas).i
 <img src="https://raw.githubusercontent.com/bmericskay/portfolio/main/images/cours/Python1.JPG" alt="alt tag" width="500" align="center">
 
 <br>
+
 ## Séance 2 : Introduction à GeoPandas pour la manipulation de données spatiales
 https://github.com/bmericskay/GeoPandas/blob/main/Seance2_Manipulation_donnees_spatiales.ipynb
 
