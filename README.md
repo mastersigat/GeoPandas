@@ -7,7 +7,11 @@ Ce cours se base sur Google Collab (https://colab.research.google.com) comme env
 
 ## Séance 1 : Introduction à Pandas pour la manipulation de données
 
-https://github.com/bmericskay/GeoPandas/blob/main/S%C3%A9ance_1_(intro_Pandas).ipynb
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bmericskay/portfolio/main/images/cours/Python1.JPG" alt="alt tag" width="500">
+</p>
 
 * Importer un jeu de données
 * Créer un dataframe
@@ -16,13 +20,17 @@ https://github.com/bmericskay/GeoPandas/blob/main/S%C3%A9ance_1_(intro_Pandas).i
 * Faire des agrégations statistiques
 * Faire des visualisations de données simple
 
+:memo: https://github.com/bmericskay/GeoPandas/blob/main/S%C3%A9ance_1_(intro_Pandas).ipynb
 
-<img src="https://raw.githubusercontent.com/bmericskay/portfolio/main/images/cours/Python1.JPG" alt="alt tag" width="500" align="center">
 
 <br>
 
 ## Séance 2 : Introduction à GeoPandas pour la manipulation de données spatiales
-https://github.com/bmericskay/GeoPandas/blob/main/Seance2_Manipulation_donnees_spatiales.ipynb
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bmericskay/portfolio/main/images/cours/Python2.JPG" alt="alt tag" width="500">
+</p>
+
 
 * Importer un jeu de données spatial
 * Créer un geodataframe
@@ -36,13 +44,16 @@ https://github.com/bmericskay/GeoPandas/blob/main/Seance2_Manipulation_donnees_s
 * Calcul d'indicateur
 * Regroupement
 
-<img src="https://raw.githubusercontent.com/bmericskay/portfolio/main/images/cours/Python2.JPG" alt="alt tag" width="500" align="center">
+:memo: https://github.com/bmericskay/GeoPandas/blob/main/Seance2_Manipulation_donnees_spatiales.ipynb
 
 <br>
 
 ## Séance 3 : Analyse spatiale avancée avec GeoPandas
 
-https://github.com/mastersigat/GeoPandas/blob/main/S%C3%A9ance_3_Analyse_spatiale.ipynb
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bmericskay/portfolio/main/images/cours/Python3.JPG" alt="alt tag" width="500">
+</p>
+
 
 * Jointure spatiales et agrégations spatiales
 * Calcul de distance, de surface et zones tampons
@@ -52,7 +63,7 @@ https://github.com/mastersigat/GeoPandas/blob/main/S%C3%A9ance_3_Analyse_spatial
 * Carroyage classique 
 * Carroyage basé sur le Uber H3
 
-<img src="https://raw.githubusercontent.com/bmericskay/portfolio/main/images/cours/Python3.JPG" alt="alt tag" width="500" align="center">
+:memo: https://github.com/mastersigat/GeoPandas/blob/main/S%C3%A9ance_3_Analyse_spatiale.ipynb
 
 
 <br>
