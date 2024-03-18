@@ -71,6 +71,11 @@ Ce cours se base sur Google Collab (https://colab.research.google.com) comme env
 
 ## 🏬 Séance 4 : Mise en application autour de données urbanistiques
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mastersigat/GeoPandas/main/python4.JPG" alt="alt tag" width="500">
+</p>
+
+
 * Jointure spatiales et agrégations spatiales
 * Opérateur de recouvrement (intersect, difference, union,...)
 * Analyses de recouvrement
