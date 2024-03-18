@@ -1,4 +1,4 @@
-# Introduction à la manipulation, l'analyse et la représentation de données spatiales avec Python
+# Introduction à la manipulation, l'analyse et la représentation de données spatiales avec Python 📒 🌐 🐍
 
 Cette section centralise 4 séances autour de la prise en main de Pandas (https://pandas.pydata.org) et Geopandas (https://geopandas.org) dans l'environnement Python.
 
@@ -20,7 +20,7 @@ Ce cours se base sur Google Collab (https://colab.research.google.com) comme env
 * Faire des agrégations statistiques
 * Faire des visualisations de données simple
 
-:memo: https://github.com/bmericskay/GeoPandas/blob/main/S%C3%A9ance_1_(intro_Pandas).ipynb
+📒  https://github.com/bmericskay/GeoPandas/blob/main/S%C3%A9ance_1_(intro_Pandas).ipynb
 
 
 <br>
@@ -44,7 +44,7 @@ Ce cours se base sur Google Collab (https://colab.research.google.com) comme env
 * Calcul d'indicateur
 * Regroupement
 
-:memo: https://github.com/bmericskay/GeoPandas/blob/main/Seance2_Manipulation_donnees_spatiales.ipynb
+📒 https://github.com/bmericskay/GeoPandas/blob/main/Seance2_Manipulation_donnees_spatiales.ipynb
 
 <br>
 
@@ -63,14 +63,13 @@ Ce cours se base sur Google Collab (https://colab.research.google.com) comme env
 * Carroyage classique 
 * Carroyage basé sur le Uber H3
 
-:memo: https://github.com/mastersigat/GeoPandas/blob/main/S%C3%A9ance_3_Analyse_spatiale.ipynb
+📒 https://github.com/mastersigat/GeoPandas/blob/main/S%C3%A9ance_3_Analyse_spatiale.ipynb
 
 
 <br>
 
 
 ## Séance 4 : Mise en application autour de données urbanistiques
-https://github.com/mastersigat/GeoPandas/blob/main/S%C3%A9ance_4_Analyse_Spatiale_Urbanisme.ipynb
 
 * Jointure spatiales et agrégations spatiales
 * Opérateur de recouvrement (intersect, difference, union,...)
@@ -79,3 +78,6 @@ https://github.com/mastersigat/GeoPandas/blob/main/S%C3%A9ance_4_Analyse_Spatial
 * Analyses spatiales à différentes échelles
 * Travailleravec un volume important de données (sur un département)
 * Mettre en place une chaîne de traitment automatisée et reproductible
+
+📒 https://github.com/mastersigat/GeoPandas/blob/main/S%C3%A9ance_4_Analyse_Spatiale_Urbanisme.ipynb
+
