@@ -1,6 +1,6 @@
 # Introduction à la manipulation, l'analyse et la représentation de données spatiales avec Python 📒 🌐 🐍
 
-Cette page centralise 4 séances de cours de M2 SIGAT autour de la prise en main de Pandas (https://pandas.pydata.org) et Geopandas (https://geopandas.org) dans l'environnement Python.
+Cette page centralise 4 séances de cours de M2 SIGAT autour de la prise en main de Pandas (https://pandas.pydata.org) et Geopandas (https://geopandas.org) dans l'environnement Python pour la manipulation, l'analyse et la représentation de données géographiques.
 
 Ce cours se base sur Google Collab (https://colab.research.google.com) comme environnement de travail. Cet environnement de travail distribué permet d'écrire et d'exécuter du code Python dans votre navigateur Web. Il offre de nombreux avantages d'un point de vue pédagogique comme aucune configuration requise, un accès gratuit aux GPU comme à des espaces disques et surtout un partage et une documentation facile grâce notamment à des passerelles avec GitHub.
 
