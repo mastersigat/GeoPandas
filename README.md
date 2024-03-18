@@ -5,7 +5,7 @@ Cette section centralise 4 séances autour de la prise en main de Pandas (https:
 Ce cours se base sur Google Collab (https://colab.research.google.com) comme environnement de travail. Cet environnement de travail distribué permet d'écrire et d'exécuter du code Python dans votre navigateur Web. Il offre de nombreux avantages d'un point de vue pédagogique comme aucune configuration requise, un accès gratuit aux GPU comme à des espaces disques et surtout un partage et une documentation facile grâce notamment à des passerelles avec GitHub.
 
 
-## Séance 1 : Introduction à Pandas pour la manipulation de données
+## 📊 Séance 1 : Introduction à Pandas pour la manipulation de données
 
 
 
@@ -25,7 +25,7 @@ Ce cours se base sur Google Collab (https://colab.research.google.com) comme env
 
 <br>
 
-## Séance 2 : Introduction à GeoPandas pour la manipulation de données spatiales
+## 🌍 Séance 2 : Introduction à GeoPandas pour la manipulation de données spatiales
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bmericskay/portfolio/main/images/cours/Python2.JPG" alt="alt tag" width="500">
@@ -48,7 +48,7 @@ Ce cours se base sur Google Collab (https://colab.research.google.com) comme env
 
 <br>
 
-## Séance 3 : Analyse spatiale avancée avec GeoPandas
+## 🌐 Séance 3 : Analyse spatiale avancée avec GeoPandas
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bmericskay/portfolio/main/images/cours/Python3.JPG" alt="alt tag" width="500">
@@ -69,7 +69,7 @@ Ce cours se base sur Google Collab (https://colab.research.google.com) comme env
 <br>
 
 
-## Séance 4 : Mise en application autour de données urbanistiques
+## 🏬 Séance 4 : Mise en application autour de données urbanistiques
 
 * Jointure spatiales et agrégations spatiales
 * Opérateur de recouvrement (intersect, difference, union,...)
