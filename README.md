@@ -1,4 +1,4 @@
-# Introduction à la manipulation, l'analyse et la représentation de données spatiales avec Python 📒 🌐 🐍
+# 🌐 Introduction à la manipulation, l'analyse et la représentation de données spatiales avec Python 📒  🐍
 
 Cette page centralise 4 séances de cours de M2 SIGAT autour de la prise en main de Pandas (https://pandas.pydata.org) et Geopandas (https://geopandas.org) dans l'environnement Python pour la manipulation, l'analyse et la représentation de données géographiques.
 
@@ -20,7 +20,7 @@ Ce cours se base sur Google Collab (https://colab.research.google.com) comme env
 * Faire des agrégations statistiques
 * Faire des visualisations de données simple
 
-📒  https://github.com/bmericskay/GeoPandas/blob/main/S%C3%A9ance_1_(intro_Pandas).ipynb
+📒 **Notebook** https://github.com/bmericskay/GeoPandas/blob/main/S%C3%A9ance_1_(intro_Pandas).ipynb
 
 
 <br>
@@ -44,7 +44,7 @@ Ce cours se base sur Google Collab (https://colab.research.google.com) comme env
 * Calcul d'indicateur
 * Regroupement
 
-📒 https://github.com/bmericskay/GeoPandas/blob/main/Seance2_Manipulation_donnees_spatiales.ipynb
+📒 **Notebook** https://github.com/bmericskay/GeoPandas/blob/main/Seance2_Manipulation_donnees_spatiales.ipynb
 
 <br>
 
@@ -63,8 +63,7 @@ Ce cours se base sur Google Collab (https://colab.research.google.com) comme env
 * Carroyage classique 
 * Carroyage basé sur le Uber H3
 
-📒 https://github.com/mastersigat/GeoPandas/blob/main/S%C3%A9ance_3_Analyse_spatiale.ipynb
-
+📒 **Notebook** : https://github.com/bmericskay/GeoPandas/blob/main/Seance3_AnalyseSpatiale.ipynb
 
 <br>
 
@@ -84,5 +83,5 @@ Ce cours se base sur Google Collab (https://colab.research.google.com) comme env
 * Travailleravec un volume important de données (sur un département)
 * Mettre en place une chaîne de traitment automatisée et reproductible
 
-📒 https://github.com/bmericskay/GeoPandas/blob/main/S%C3%A9ance_4_Analyse_Spatiale_Urbanisme.ipynb
+📒 **Notebook** : https://github.com/bmericskay/GeoPandas/blob/main/Seance4_AnalyseSpatiale_Urbanisme.ipynb
 
