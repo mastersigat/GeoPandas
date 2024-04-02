@@ -2,6 +2,8 @@
 
 Cette page centralise 4 séances de cours de M2 SIGAT autour de la prise en main de Pandas (https://pandas.pydata.org) et Geopandas (https://geopandas.org) dans l'environnement Python pour la manipulation, l'analyse et la représentation de données géographiques.
 
+Les 4 séances de cours sont strcuturées autour de **4 notebooks documentés** permettant à la fois de comprendre les logiques sous-jacentes et de disposer de syntaxes commentées et fonctionnelles.
+
 Ce cours se base sur Google Collab (https://colab.research.google.com) comme environnement de travail. Cet environnement de travail distribué permet d'écrire et d'exécuter du code Python dans votre navigateur Web. Il offre de nombreux avantages d'un point de vue pédagogique comme aucune configuration requise, un accès gratuit aux GPU comme à des espaces disques et surtout un partage et une documentation facile grâce notamment à des passerelles avec GitHub.
 
 
