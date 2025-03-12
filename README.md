@@ -46,7 +46,7 @@ Ce cours se base sur Google Collab (https://colab.research.google.com) comme env
 * Calcul d'indicateur
 * Regroupement
 
-📒 **Notebook** https://github.com/bmericskay/GeoPandas/blob/main/Seance2_Manipulation_donnees_spatiales.ipynb
+📒 **Notebook** [https://github.com/bmericskay/GeoPandas/blob/main/Seance2_Manipulation_donnees_spatiales.ipynb](https://github.com/mastersigat/GeoPandas/blob/main/Notebooks/Seance2_Manipulation_donnees_spatiales.ipynb)
 
 <br>
 
