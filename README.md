@@ -65,7 +65,7 @@ Ce cours se base sur Google Collab (https://colab.research.google.com) comme env
 * Carroyage classique 
 * Carroyage basé sur le Uber H3
 
-📒 **Notebook** : https://github.com/bmericskay/GeoPandas/blob/main/Seance3_AnalyseSpatiale.ipynb
+📒 **Notebook** : [https://github.com/bmericskay/GeoPandas/blob/main/Seance3_AnalyseSpatiale.ipynb](https://github.com/mastersigat/GeoPandas/blob/main/Notebooks/Seance3_AnalyseSpatiale.ipynb)
 
 <br>
 
