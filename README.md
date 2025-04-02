@@ -85,5 +85,7 @@ Ce cours se base sur Google Collab (https://colab.research.google.com) comme env
 * Travailleravec un volume important de données (sur un département)
 * Mettre en place une chaîne de traitment automatisée et reproductible
 
-📒 **Notebook** : https://github.com/bmericskay/GeoPandas/blob/main/Seance4_AnalyseSpatiale_Urbanisme.ipynb
+📒 **Notebook** : [https://github.com/bmericskay/GeoPandas/blob/main/Seance4_AnalyseSpatiale_Urbanisme.ipynb](https://github.com/mastersigat/GeoPandas/blob/main/Notebooks/Seance4_AnalyseSpatiale_Urbanisme.ipynb
+)
+
 
