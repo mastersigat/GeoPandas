@@ -46,7 +46,13 @@ Ce cours se base sur Google Collab (https://colab.research.google.com) comme env
 * Calcul d'indicateur
 * Regroupement
 
-📒 **Notebook** [[https://github.com/bmericskay/GeoPandas/blob/main/Seance2_Manipulation_donnees_spatiales.ipynb](https://github.com/mastersigat/GeoPandas/blob/main/Notebooks/S%C3%A9ance1_IntroductionGeopandas.ipynb)]
+📒 **Notebook_1** [[Introduction à Geopandas (importation, manipulation et exloration de données spatiales](https://github.com/mastersigat/GeoPandas/blob/main/Notebooks/S%C3%A9ance1_IntroductionGeopandas.ipynb)]
+
+📒 **Notebook_2** [[Exercices autour de données INSEE (jointure, calcul d'indicateurs et cartographie thématique)](https://github.com/mastersigat/GeoPandas/blob/main/Notebooks/Exercices_LogementsIDF.ipynb)]
+
+
+
+
 
 
 <br>
